@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "494180763225",
+    "project_id": "weather-in-jordan",
+    "storage_bucket": "weather-in-jordan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494180763225:android:0cbc070293dbba6f6c1348",
+        "android_client_info": {
+          "package_name": "com.example.jordan_weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494180763225-nl53qafr4b0kh6986vimtr7d3k50891f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVJs4s7rdYkfxNDwrn4OWwelOEJ7uCx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494180763225-nl53qafr4b0kh6986vimtr7d3k50891f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494180763225:android:abf35b03ac7bce636c1348",
+        "android_client_info": {
+          "package_name": "com.example.weather_anas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494180763225-nl53qafr4b0kh6986vimtr7d3k50891f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVJs4s7rdYkfxNDwrn4OWwelOEJ7uCx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494180763225-nl53qafr4b0kh6986vimtr7d3k50891f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
